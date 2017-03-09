@@ -25,6 +25,10 @@ met false geeft de button het formulier niet weer en met true geeft het formulie
   value 2:
   
       Panel1.Visible = true;
+      
+om deze opdracht te open klik op het mapje Opdracht 2
+
+#Opdracht3
 
 
    

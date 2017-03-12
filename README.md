@@ -26,6 +26,12 @@ met false geeft de button het formulier niet weer en met true geeft het formulie
 om deze opdracht te open klik op het mapje Opdracht 2
 
 #Opdracht3
+in deze opdracht hebben we een kalender gemaakt die aan geeft hoe oud je bent en wat voor datum je hebt aan geklikt op de kalender hij geeft de tekst weer als je op de buuton klikt daarnaast moets de kaldender als start datum 1 januarie 1995 hebben 
 
+#opdracht 4
+in deze opdracht hebben we een grijs vak gemaakt waarin je aan geeft want voor dag het is en hoelaat daarnaast moet je nog laten zien hoelang het nog duurt voordat pasen begind dit moch niet in dagen maar moest in uur minuten en seconden als je op de button klikt geeft hij dit weer
 
+        dag(datum) , tijd en hoelang pasen nog duurt in uren mintuten en seconden
+        
+hoe heb ik de datum laten zien dit deed je door
    

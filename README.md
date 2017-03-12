@@ -33,5 +33,7 @@ in deze opdracht hebben we een grijs vak gemaakt waarin je aan geeft want voor d
 
         dag(datum) , tijd en hoelang pasen nog duurt in uren mintuten en seconden
         
-hoe heb ik de datum laten zien dit deed je door
+hoe heb ik de datum laten zien dit deed je door DateTime.Now.ToString te gebruiken met daaracht ("dd-mm-yyyy") dit deed je het zelfde met tijd alleen in plaats van ("dd-mm-yyyy") gebruikte je ("HH:mm:ss")
+
+toen gaf je aan wat voor datum pasen is en deed je dus pasen - de huidigedatumn en dit zetten je om naar uren, mintunten en seconden zie mapje Opdracht4
    

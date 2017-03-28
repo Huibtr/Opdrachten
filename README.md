@@ -40,3 +40,11 @@ Dit deed je op dezelfde wijze met tijd, alleen in plaats van ("dd-mm-yyyy") gebr
 
 Toen gaf je aan wat voor datum Pasen is en deed je dus Pasen min de huidige datum en dit zette je om naar uren, minuten en seconden. Zie mapje: Opdracht4
    
+
+
+#opdracht 5  (rekenmachine)
+
+
+
+
+#opdracht 6  (grafischerekenmachine1)

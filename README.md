@@ -6,7 +6,7 @@ Hierbij lever ik opdracht 1 in. Je kunt deze opdracht openen door op het mapje t
 # Opdracht 2
 Deze opdracht heeft met oefening 3 te maken. In deze oefening moesten we een formulier invullen. Het volgende moest er in staan:
 hobby's , geslacht, naam en opleiding. Daarnaast moeten we er in de opdracht voor zorgen dat met een RadioButton het formulier zichtbaar wordt gemaakt wanneer je daarom vraagt
- 
+
     verberg formulier
     laat formulier zien
   
@@ -55,8 +55,8 @@ wanneer dit niet het geval was, dus een getal meer of minder, dan moest er komen
  
  
 # Opdracht 6  (grafischerekenmachine1)
-In deze opdracht moesten we een grafische rekenmachine maken met werkende knoppen, behalve
- 
-        M2, O1 en O2
-        
+In deze opdracht moesten we een grafische rekenmachine maken met werkende knoppen, behalve 
+
+        M2, O1 en O2
+
 de rekenmachine moest getallen bij elkaar op tellen, maar ook van elkaar af kunnen halen. Daarnaast moesten er ook komma getallen berekend kunnen worden en door op C te drukken kon je de hele som weg halen en met Back om het laatste  getal terug te zetten. Ook moesten we onze rekenmachine een opmaak geven. Ik heb ervoor gekozen om de cijfers en de functie een aparte kleur te geven. Wilt u deze code zien, ga dan naar het mapje: grafischerekenmachine1

@@ -1,4 +1,4 @@
-# Opdracht 1
+een  er # Opdracht 1
 Hierbij lever ik opdracht 1 in. Je kunt deze opdracht openen door op het mapje te klikken
 
 
@@ -43,8 +43,11 @@ Toen gaf je aan wat voor datum Pasen is en deed je dus Pasen min de huidige datu
 
 
 # Opdracht 5  (rekenmachine)
-
-
+in deze opdracht moesten een RegulatExpressionValidator toevoegen aan de oefening van de rekenmachine vandaar dat de opdracht/mapje rekenmachine heet in deze opdracht hadden we een we twee getallen die gelijk aan elkaar moesten zij en binnen de 1 en de 100 moesten zijn dit getal moeten wij er dan voor zorgen dat dit bij elkaar werd opgeteld of van elkaar werd afgehaalt nu moesten we hierbij nog een telefoon nummer aantoevoegen met 10 nummers plus de spatie dus bijvoorbeeld zo:
+        
+        073 6249909
+       
+als dit niet het geval was dus een getal meer of minder dan moest er komen te staan dat corect was. Wilt u hiervan de code zien klik dan op het mapje rekemachine
 
 
 # Opdracht 6  (grafischerekenmachine1)

@@ -25,12 +25,12 @@ Met false geeft de button het formulier niet weer en met true wel
       
 Om deze opdracht te openen klik je op het mapje: Opdracht 2
 
-#Opdracht3
+# Opdracht3
 In deze opdracht hebben we een kalender gemaakt die aan geeft hoe oud je bent en welke datum je hebt aangeklikt op de kalender. Hij geeft de tekst weer als je op de button klikt en daarnaast moest de kaldender als start datum 1 januari 1995 hebben.
 Om naar deze code te gaan klik je op het mapje: Opdracht 3
 
 
-#opdracht 4
+# Opdracht 4
 In deze opdracht hebben we een grijs vak gemaakt, waarin je aan geeft wat voor dag het is en hoe laat. Daarnaast moest je nog laten zien hoelang het nog duurt voordat het Pasen is. Dit mocht echter niet in dagen, maar moest in uren, minuten en seconden. Wanneer je op de button klikt laat de label de tekst zien.
 
         dag(datum) , tijd en hoelang pasen nog duurt in uren mintuten en seconden
@@ -42,9 +42,9 @@ Toen gaf je aan wat voor datum Pasen is en deed je dus Pasen min de huidige datu
    
 
 
-#opdracht 5  (rekenmachine)
+# Opdracht 5  (rekenmachine)
 
 
 
 
-#opdracht 6  (grafischerekenmachine1)
+# Opdracht 6  (grafischerekenmachine1)

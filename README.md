@@ -51,3 +51,8 @@ als dit niet het geval was dus een getal meer of minder dan moest er komen te st
 
 
 # Opdracht 6  (grafischerekenmachine1)
+in deze opdracht moesten we een grafische rekenmachine maken met werken de knoppen behalve
+
+        M2, O1 en O2
+        
+de rekenmachine moet getallen bi elkaar op telen maar ook van elkaar af halen daarnaast moeten er ook komma getallen kunnen berekend worden en C voor de helesom weg te halen en Back voor een getal terug te doen ook moesten we onze rekenmachine een opmaak geven ik heb hier voor gekozen om de cijfers en de functie een aparte kleur te geven wilt u deze code zien ga dan naar het mapje grafischerekenmachine1

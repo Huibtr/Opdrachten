@@ -5,16 +5,16 @@ Hierbij lever ik opdracht 1 in. Je kunt deze opdracht openen door op het mapje t
  
 # Opdracht 2
 Deze opdracht heeft met oefening 3 te maken. In deze oefening moesten we een formulier invullen. Het volgende moest er in staan:
-hobby's , geslacht, naam en opleiding. Daarnaast moeten we er in de opdracht voor zorgen dat met een RadioButton het formulier zichtbaar wordt gemaakt wanneer je daarom vraagt
+hobby's , geslacht, naam en opleiding. Daarnaast moeten we er in de opdracht voor zorgen dat met een RadioButton het formulier zichtbaar wordt gemaakt wanneer je daarom vraagt 
 
-    verberg formulier
-    laat formulier zien
-  
+        verberg formulier 
+        laat formulier zien
+
 In de RabioButton heb ik 2 soorten tekst een value gegeven: 
- 
-    verberg formulier value 1
-    laat formulier zien vulue 2
- 
+
+        verberg formulier value 1 
+        laat formulier zien vulue 2
+
 Met false geeft de button het formulier niet weer en met true wel
  
   value 1:

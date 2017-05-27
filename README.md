@@ -59,3 +59,8 @@ In deze opdracht moesten we een grafische rekenmachine maken met werkende knoppe
         M2, O1 en O2
 
 de rekenmachine moest getallen bij elkaar op tellen, maar ook van elkaar af kunnen halen. Daarnaast moesten er ook komma getallen berekend kunnen worden en door op C te drukken kon je de hele som weg halen en met Back om het laatste  getal terug te zetten. Ook moesten we onze rekenmachine een opmaak geven. Ik heb ervoor gekozen om de cijfers en de functie een aparte kleur te geven. Wilt u deze code zien, ga dan naar het mapje: grafischerekenmachine1
+
+# Opdracht 7
+
+# Opdracht 8
+in deze opdracht moesten we een website maken met daarin een database de database gaat over films daarnaast moest je de website responsive maken dit deed je door van px % te maken
